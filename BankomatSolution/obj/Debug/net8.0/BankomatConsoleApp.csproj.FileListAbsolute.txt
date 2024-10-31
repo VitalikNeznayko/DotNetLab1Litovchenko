@@ -1,0 +1,4 @@
+D:\My works\Політех\c#\Bankomat\obj\Debug\net8.0\BankomatConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My works\Політех\c#\Bankomat\obj\Debug\net8.0\BankomatConsoleApp.AssemblyInfoInputs.cache
+D:\My works\Політех\c#\Bankomat\obj\Debug\net8.0\BankomatConsoleApp.AssemblyInfo.cs
+D:\My works\Політех\c#\Bankomat\obj\Debug\net8.0\BankomatConsoleApp.csproj.CoreCompileInputs.cache

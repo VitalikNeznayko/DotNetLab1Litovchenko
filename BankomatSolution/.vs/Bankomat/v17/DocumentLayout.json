@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formchoosebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formchoosebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formauthorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formbankomatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formbankomatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AC3BF6-4CC6-4FC8-AFCE-6A919AB3FF94}|BancomatConsoleApp\\BancomatConsoleApp.csproj|d:\\my works\\\u0440\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\bankomatsolution\\bancomatconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AC3BF6-4CC6-4FC8-AFCE-6A919AB3FF94}|BancomatConsoleApp\\BancomatConsoleApp.csproj|solutionrelative:bancomatconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formbankomatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formbankomatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formchoosebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formchoosebank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\bankomatform\\formregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C09AFB82-1F78-4FE5-A039-D56B0DCCC88C}|BankomatForm\\BankomatForm.csproj|solutionrelative:bankomatform\\formregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978E8E8-7B84-4967-947F-9C633BC5B408}|BancomatClassLibrary\\BancomatClassLibrary.csproj|d:\\my works\\\u0440\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\bankomatsolution\\bancomatclasslibrary\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978E8E8-7B84-4967-947F-9C633BC5B408}|BancomatClassLibrary\\BancomatClassLibrary.csproj|solutionrelative:bancomatclasslibrary\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BancomatConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "BancomatConsoleApp\\Program.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BancomatConsoleApp\\Program.cs",
+              "RelativeToolTip": "BancomatConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:00:50.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BancomatClassLibrary\\Bank.cs",
+              "RelativeDocumentMoniker": "BancomatClassLibrary\\Bank.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BancomatClassLibrary\\Bank.cs",
+              "RelativeToolTip": "BancomatClassLibrary\\Bank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:00:20.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegistration.cs",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormRegistration.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormRegistration.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormRegistration.cs",
+              "RelativeToolTip": "BankomatForm\\FormRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:59:17.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAuthorization.cs",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormAuthorization.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormAuthorization.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormAuthorization.cs",
+              "RelativeToolTip": "BankomatForm\\FormAuthorization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:59:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChooseBank.cs",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormChooseBank.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormChooseBank.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormChooseBank.cs",
+              "RelativeToolTip": "BankomatForm\\FormChooseBank.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:55:43.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormRegistration.cs [Design]",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormRegistration.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormRegistration.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormRegistration.cs [Design]",
+              "RelativeToolTip": "BankomatForm\\FormRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:50:22.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormChooseBank.cs [Design]",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormChooseBank.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormChooseBank.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormChooseBank.cs [Design]",
+              "RelativeToolTip": "BankomatForm\\FormChooseBank.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:50:19.385Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAuthorization.cs [Design]",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormAuthorization.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormAuthorization.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormAuthorization.cs [Design]",
+              "RelativeToolTip": "BankomatForm\\FormAuthorization.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:50:10.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBankomatMenu.cs",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormBankomatMenu.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormBankomatMenu.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormBankomatMenu.cs",
+              "RelativeToolTip": "BankomatForm\\FormBankomatMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:45:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormBankomatMenu.cs [Design]",
+              "DocumentMoniker": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormBankomatMenu.cs",
+              "RelativeDocumentMoniker": "BankomatForm\\FormBankomatMenu.cs",
+              "ToolTip": "D:\\My works\\\u0420\u043E\u0431\u043E\u0442\u0430\\c#\\\u043C\u043E\u0454\\lab1\\BankomatSolution\\BankomatForm\\FormBankomatMenu.cs [Design]",
+              "RelativeToolTip": "BankomatForm\\FormBankomatMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T21:38:50.425Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

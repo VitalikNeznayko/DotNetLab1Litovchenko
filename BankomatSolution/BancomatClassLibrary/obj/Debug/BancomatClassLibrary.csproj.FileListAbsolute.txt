@@ -1,0 +1,12 @@
+D:\My works\Політех\c#\BancomatClassLibrary\bin\Debug\BancomatClassLibrary.dll
+D:\My works\Політех\c#\BancomatClassLibrary\bin\Debug\BancomatClassLibrary.pdb
+D:\My works\Політех\c#\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.csproj.AssemblyReference.cache
+D:\My works\Політех\c#\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.csproj.CoreCompileInputs.cache
+D:\My works\Політех\c#\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.dll
+D:\My works\Політех\c#\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.pdb
+D:\My works\Робота\c#\моє\lab1\BankomatSolution\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.csproj.AssemblyReference.cache
+D:\My works\Робота\c#\моє\lab1\BankomatSolution\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.csproj.CoreCompileInputs.cache
+D:\My works\Робота\c#\моє\lab1\BankomatSolution\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.dll
+D:\My works\Робота\c#\моє\lab1\BankomatSolution\BancomatClassLibrary\obj\Debug\BancomatClassLibrary.pdb
+D:\My works\Робота\c#\моє\lab1\BankomatSolution\BancomatClassLibrary\bin\Debug\BancomatClassLibrary.dll
+D:\My works\Робота\c#\моє\lab1\BankomatSolution\BancomatClassLibrary\bin\Debug\BancomatClassLibrary.pdb
